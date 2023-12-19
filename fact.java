@@ -10,5 +10,6 @@ public class fact
    }
    System.out.println(fact);
 }
+//fsdiucxhojpk[loih;ugyfrezurtiuyiojpk]
    
 }
