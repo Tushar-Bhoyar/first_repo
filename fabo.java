@@ -17,4 +17,4 @@ public class fabo
         }
     }
     
-}
+}// dont add term++;
